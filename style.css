@@ -1,0 +1,302 @@
+.border-container{
+padding: auto;
+margin: auto;
+}
+.parent-container-1{
+    display: flex;
+    justify-content: space-between;
+}
+.child-1{
+    height:100px;
+    flex:0.3;
+    background-color: aqua;
+}
+
+.child-2{
+    height:100px;
+    flex:0.2;
+    background-color:aqua;
+}
+.parent-container-2{
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    margin-right: 13%;
+}
+.child-3{
+    height: 100px;
+    flex: 0.3;
+    background-color: aqua;
+    
+}
+.parent-container-3{
+    display: flex;
+    justify-content: center;
+    margin-right: 11%;
+}
+.child-4{
+    height: 40px;
+    flex: 0.1;
+    background-color: aqua;
+}
+.border-container-1{
+  background-color: aqua;
+  margin: 10px;
+ padding: 5px;
+
+}
+.parent-container-4{
+    display: flex;
+    justify-content: space-between;  
+    margin: 5px;
+}
+.child-5{
+    height: 30px;
+    flex: 0.2;
+    background-color: crimson;
+    }
+    .child-6{
+        height: 40px;
+        flex: 0.3;
+        background-color: crimson;
+        }
+        .child-7{
+            height: 30px;
+            flex: 0.3;
+            background-color: crimson;
+            }
+.parent-container-5{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+
+}
+.child-8{
+    height: 30px;
+    flex: 0.3;
+    background-color: crimson;
+}
+.child-9{
+    height: 70px;
+    flex: 0.6;
+    background-color: crimson;
+    padding-right: 24%;
+}
+.parent-container-6{
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+}
+.child-10{
+    height: 20px;
+    flex: 0.3;
+    background-color: crimson;
+    margin-right: 13%;
+}
+.parent-container-7{
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+   margin-left: 20%;
+    
+}
+.child-11{
+    height: 40px;
+    flex: 0.4;
+    margin-left: 3%;
+    background-color: crimson; 
+}
+.child-12{
+    height: 20px;
+    flex: 0.4;
+    margin-left: 3%;
+    background-color: crimson; 
+}
+
+.parent-container-8{
+    display: flex;
+    justify-content: space-around;
+    
+
+
+}
+.child-13{
+    height: 30px;
+    flex: 0.4;
+    background-color: aqua;
+    margin-right:20px;
+    
+}
+.child-14{
+    height: 30px;
+    flex: 0.4;
+    background-color: aqua;
+    margin-right:20px ;
+}
+.child-15{
+    height: 30px;
+    flex: 0.4;
+    background-color: aqua;
+    margin-right: 200px;
+    
+}
+.child-16{
+    height: 15px;
+    flex: 0.2;
+    background-color: crimson;
+    margin-top: 10px;
+}
+.border-container-2{
+    background-color: aqua;
+    padding: 2%;
+}
+ .parent-container-9{
+     display: flex;
+     justify-content:space-between;
+ }
+ .child-17{
+     height: 40px;
+     flex: 0.3;
+     background-color: crimson;
+ }
+ .child-18{
+     height: 40px;
+     flex: 0.3;
+     background-color: crimson;
+ }
+ .parent-container-10{
+     display: flex;
+     justify-content: start;
+     
+ }
+ .child-19{
+     height: 20px;
+     flex: 0.1;
+     background-color: crimson;
+     margin-top: 3%;
+ }
+ .parent-container-11{
+     display: flex;
+     justify-content: end;
+     padding: 1%;
+
+ }
+.child-20{
+    height: 40px;
+    flex: 1.0;
+    background-color: crimson;
+    margin-right: 5%;
+    
+}
+.child-21{
+    height: 40px;
+    flex: 0.2;
+    background-color: crimson;
+}
+.parent-container-12{
+    display: flex;
+    justify-content: start;
+
+}   
+.child-22{
+    height: 20px;
+    flex: 0.4;
+    background-color: crimson;
+} 
+.parent-container-13{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+
+
+}
+.child-23{
+    height: 40px;
+    flex: 1.0;
+    background-color: crimson;
+}
+.parent-container-14{
+    display: flex;
+    justify-content: start;
+    
+}
+.child-24{
+    height: 20px;
+    flex: 0.1;
+    background-color: crimson;
+    margin-top: 3%;
+}
+.parent-container-15{
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+
+}
+.child-25{
+   height: 40px;
+   flex: 0.9;
+   background-color: crimson;
+   margin-right: 5%;
+}
+.parent-container-16{
+    display: flex;
+    justify-content: end;
+}
+.child-26{
+    height: 15px;
+    flex: 0.1;
+    background-color: crimson;
+    margin-top: 10px;
+}
+.parent-container-17{
+    display: flex;
+    justify-content: end;
+    padding: 1%;
+
+}
+.child-27{
+   height: 40px;
+   flex: 0.9;
+   background-color: crimson;
+}
+.parent-container-18{
+    display: flex;
+    justify-content: start;
+    
+}
+.child-28{
+    height: 20px;
+    flex: 0.1;
+    background-color: crimson;
+    margin-top: 3%;
+}
+.parent-container-19{
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+
+}
+.child-29{
+   height: 40px;
+   flex: 0.9;
+   background-color: crimson;
+   margin-right: 5%;
+}
+.parent-container-20{
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+
+}
+.child-30{
+   height: 10px;
+   flex: 0.2;
+   background-color: crimson;
+   
+}
+.child-31{
+    height: 10px;
+    flex: 0.4;
+    background-color: crimson;
+    
+}
